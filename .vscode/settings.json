@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "__bit_reference": "cpp",
+    "complex": "cpp",
+    "string": "cpp"
+  }
+}
